@@ -34,7 +34,7 @@ The validity of blockchain  can be found out by following steps:-
 
 To mine a block:-
 
--A 'nonce' is given to each block and in mine block function under Block class and the same was incremented until the hash starts with "00" (2 zeroes or may be more ).
+-A 'nonce' value  is given to each block and in mine_block function under Block class and it is incremented until the hash starts with "00" (2  or  more zeroes ).
 
 -It is done to prevent any  tampering or unwanted activites as it is the most brute force way to calculate hash and it makes the recomputing of  hash very difficult . 
 
