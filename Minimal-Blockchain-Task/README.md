@@ -6,6 +6,7 @@ This is a basic implementation of a blockchain to demonstrate how blocks are cre
 ## BLOCK STRUCTURE
 
 Each block contains:-
+
 -Index: position in the chain
 
 -Timestamp: time of creation
