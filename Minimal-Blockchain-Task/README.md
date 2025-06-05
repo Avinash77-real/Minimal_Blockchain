@@ -37,5 +37,5 @@ To mine a block:-
 
 -A 'nonce' value  is given to each block and in mine_block function under Block class and it is incremented until the hash starts with "00" (2  or  more zeroes ).
 
--It is done to prevent any  tampering or unwanted activites as it is the most brute force way to calculate hash and it makes the recomputing of  hash very difficult . 
+-It is done to prevent any  tampering or unwanted changes in data as POW is the most brute force way to calculate hash and it makes the recomputing of  hash very difficult . 
 
