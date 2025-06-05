@@ -1,6 +1,6 @@
 # MINIMAL BLOCKCHAIN IMPLEMENTATION IN PYTHON
 
-This is a basic implementation of a blockchain to demonstrate how blocks are created,linked,validated and mined through POW(proof-of-work).
+This is a basic implementation of a Blockchain in Python  to demonstrate how blocks are created , linked, validated and mined through POW(proof-of-work).
 
 
 ## BLOCK STRUCTURE
